@@ -6,12 +6,13 @@
         ⌘ Z
         ⌘ ⇧ Z
         Ctrl +Z
-        Ctrl + Shift + Z
+        Ctrl + Shift + Z ó Ctrl + Y
 
 */
 
-
-
+function holaMundo(){
+    return 'Saludos a todos!';
+}
 
 
 
